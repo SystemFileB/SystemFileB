@@ -1,4 +1,5 @@
 ## Hi there 👋
+![2025新春快乐](./2025spring.png)
 
 <!--
 **SystemFileB/SystemFileB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
