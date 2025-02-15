@@ -1,6 +1,8 @@
 ## Hi there 👋
 一个什么都会，但样样不精的牛顿狂喜水桶 (
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SystemFileB&show_icons=true&theme=dark&layout=compact&locale=cn)
+
 ## 🤔 我有哪些作品
 - Minecraft Mods (MCreator)
 - More 100 Mods系列Minecraft整合包
@@ -12,6 +14,8 @@
 - Batch & Shell
 - C++
 - 还有其他的
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemFileB&hide=markdown,xslt,html&locale=cn&theme=dark&layout=compact)  
 
 ## ⚖️ 许可证
 ### ✔️ 喜欢用的
