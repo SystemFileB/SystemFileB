@@ -31,4 +31,4 @@
 **以上仅为个人观点，不代表客观立场，毕竟开源许可还是要根据自己的情况来选择的**
 
 ## 🪞 传送门
-[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK服务器](https://kook.vip/vmwMs8)
+[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK服务器](https://kook.vip/vmwMs8) | [Discord服务器](https://discord.gg/P93nwYxWmQ)
