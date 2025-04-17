@@ -1,13 +1,29 @@
-## Hi there 👋
+## 亻尔 女子 👋
 一个什么都会，但样样不精的牛顿狂喜水桶 (
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SystemFileB&show_icons=true&theme=dark&layout=compact&locale=cn)
 
 ## 🤔 我有哪些作品
-- Minecraft Mods (MCreator)
-- More 100 Mods系列Minecraft整合包
-- Mafish Extras系列马夫鱼附属
-- 还有一大堆奇怪的项目
+### 使用MCreator制作的Minecraft模组
+[![我的奇怪模组](https://github-readme-stats.vercel.app/api/pin/?username=SystemFileB&repo=SyFB_Strange)](https://github.com/SystemFileB/SyFB_Strange)
+[![马夫鱼：附属系列](https://github-readme-stats.vercel.app/api/pin/?username=SystemFileB&repo=mafish-extras)](https://github.com/SystemFileB/mafish-extras)
+
+### More 100 Mods系列Minecraft整合包
+咕咕咕
+
+### Python 库
+[![MCToast](https://github-readme-stats.vercel.app/api/pin/?username=SystemFileB&repo=mctoast)](https://github.com/SystemFileB/mctoast)
+
+### Python 编写的一些项目
+[![All Of Resources](https://github-readme-stats.vercel.app/api/pin/?username=SystemFileB&repo=all-of-resources)](https://github.com/SystemFileB/all-of-resources)
+[![Console Player](https://github-readme-stats.vercel.app/api/pin/?username=SystemFileB&repo=console-player)](https://github.com/SystemFileB/console-player)
+
+### 还没写完
+[![CamMoitor](https://github-readme-stats.vercel.app/api/pin/?username=SystemFileB&repo=CamMonitor_Server)](https://github.com/SystemFileB/CamMonitor_Server)
+
+### PluginMC
+咕咕咕  
+[可以点击这里先看看团队的主页](https://github.com/Pluginful)
 
 ## ⚡ 我擅长的语言 (熟练程度排序)
 - Python
@@ -19,7 +35,7 @@
 
 ## ⚖️ 许可证
 ### ✔️ 喜欢用的
-- 除CC0以外的，不含ND条件的Creative Commons
+- Creative Commons的一系列许可证
 - LGPL
 - BSD
 
