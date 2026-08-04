@@ -2,7 +2,7 @@ name: 生成 README 置顶仓库卡片
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once daily at midnight
+    - cron: "0 1 * * *" # Runs once daily at midnight
   workflow_dispatch:
 
 jobs:
