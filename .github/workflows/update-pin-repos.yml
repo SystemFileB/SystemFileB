@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=SystemFileB&repo=SystemFileB%2F${{ matrix.repo }}&locale=cn&theme=dark
+          options: username=SystemFileB&repo=SystemFileB%2F${{ matrix.repo }}&locale=cn&theme=dark&description_lines_count=3
           path: img/repos/${{ matrix.repo }}.svg
 
       - name: 上传 Artifact
