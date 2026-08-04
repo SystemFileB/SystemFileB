@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="140"
-        viewBox="0 0 400 140"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -117,11 +117,11 @@
       <tspan dy="1.2em" x="25">build cpython-mingw with Actions &#20351;&#29992;Actions&#26500;&#24314;</tspan><tspan dy="1.2em" x="25">cpython-mingw</tspan>
     </text>
 
-    <g transform="translate(30, 65)">
+    <g transform="translate(30, 75)">
       
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 88)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
       
     </g></svg>
     
