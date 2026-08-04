@@ -6,7 +6,6 @@
 ~~我真的太喜欢为我的项目加 SyFB_ 前缀了 lollollollol~~
 
 ![GitHub 统计数据](./img/stats.svg)
-<!-- https://github-stats-extended.vercel.app/api?username=SystemFileB&show_icons=true&theme=dark&include_all_commits=true&locale=cn -->
 
 ## 常用工具
 - [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢信息事物的开发者，但这并不意味着我不接纳其它发行版！
@@ -27,13 +26,11 @@
 - 别的，比如 HTML ，但是都不太会
 
 ![最常用的语言](./img/top-langs.svg)
-<!-- https://github-stats-extended.vercel.app/api/top-langs?username=SystemFileB&layout=compact&theme=dark&locale=cn&hide=markdown,xslt,html -->
 
 ## 项目
 目前已经构思了 NaN 个项目了，其中一些比较大的还是 WIP 或者压根不管，这里放上一些做好了的  
 注意，这里的大部分仓库维护频率都极低，特别是一些 CI 仓库可能工作流都没开
 
-<!-- 模板: https://github-stats-extended.vercel.app/api/pin/?username=SystemFileB&repo=SystemFileB%2F[仓库名]&locale=cn&theme=dark -->
 ### 工具链
 [![MCDK](./img/repos/mcdk.svg)](https://github.com/SystemFileB/mcdk)
 
@@ -47,6 +44,7 @@
 [![ConsolePlay](./img/repos/console-player.svg)](https://github.com/SystemFileB/console-player)
 [![All Of Resources](./img/repos/all-of-resources.svg)](https://github.com/SystemFileB/all-of-resources)
 [![mctoast](./img/repos/mctoast.svg)](https://github.com/SystemFileB/mctoast)
+[![CamMonitor](./img/repos/CamMonitor_Server.svg)](https://github.com/SystemFileB/CamMonitor_Server)
 
 ### 未来的项目？
 - [Hartrix](https://github.com/Hartrix) - 一个基于 Linux 硬件的 Matrix 客户端

@@ -21,6 +21,7 @@ jobs:
           - mctoast
           - mafish-extras
           - SyFB_Strange
+          - CamMonitor_Server
 
     steps:
       - uses: actions/checkout@v7
