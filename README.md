@@ -58,9 +58,10 @@
 [![Mafish Extras](./img/repos/mafish-extras.svg)](https://github.com/SystemFileB/mafish-extras)
 [![SyFB_Strange](./img/repos/syfb-strange.svg)](https://github.com/SystemFileB/SyFB_Strange)
 
-#### 中文许可证的来源
+#### LGPLv3 中文许可证翻译的来源
 我有一些较老的项目用到了LGPLv3，包含了中文的非正式翻译文本，它们曾经来自 [这里](https://www.gnu.org/licenses/translations.html) 的链接  
-但是这个页面上的链接有变更，而且我没有经历去寻找我以前使用的翻译文本  
-如果你是这个许可证翻译版的原作者，或其它知道来源的人，可以在 [这个仓库](https://github.com/SystemFileB/SystemFileB) 开Issue,我会补充
+但是，原链接已经失效，[时光机](https://web.archive.org/web/20241209221706/https://licenses.peaksol.org/lgplv3-zh.html) 上有 2024.12.09 的留档，不过 [2026.02.09 的留档](https://web.archive.org/web/20260209080752/https://licenses.peaksol.org/lgplv3-zh.html) 也指向了 [新链接](https://haydenwu.org/license-translations/lgplv3-zh/) ，但我还不能保证这两个地方写的许可证是一样的
+我因为没时间维护那些项目，所以才写到主页上
 
-我因为没时间维护它们所以才写到主页上
+### 传送门
+[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK服务器](https://kook.vip/vmwMs8) | [Discord服务器](https://discord.gg/P93nwYxWmQ) | [洛谷](https://www.luogu.com.cn/user/2081639) | [osu!](https://osu.ppy.sh/users/39872263)
