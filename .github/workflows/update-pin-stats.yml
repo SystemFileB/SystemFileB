@@ -1,0 +1,64 @@
+name: 生成 README 置顶仓库卡片
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs once daily at midnight
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - mcdk
+          - cpython-builder
+          - libui-ng-windows-builder
+          - n2n-mingw64
+          - nginx-rtmp
+          - console-player
+          - all-of-resources
+          - mctoast
+          - mafish-extras
+          - SyFB_Strange
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: 生成 img/repos/${{ matrix.repo }}.svg
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=SystemFileB&repo=SystemFileB%2F${{ matrix.repo }}&locale=cn&theme=dark
+          path: img/repos/${{ matrix.repo }}.svg
+
+      - name: 上传 Artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: pin-${{ matrix.repo }}
+          path: img/repos/${{ matrix.repo }}.svg
+
+  upload:
+    runs-on: ubuntu-latest
+    needs: generate
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: 下载 Artifacts
+        uses: actions/download-artifact@v8
+        with:
+          path: img/repos/
+          merge-multiple: true
+      
+      - name: 提交卡片
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add img/repos/*.svg
+          git commit -m "更新 README 置顶仓库卡片" || exit 0
+          git push
+
+
