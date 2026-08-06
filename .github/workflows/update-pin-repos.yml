@@ -59,6 +59,9 @@ jobs:
             node index.js
           done
 
+        env:
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+
       - name: 提交卡片
         run: |
           git config user.name "github-actions[bot]"
