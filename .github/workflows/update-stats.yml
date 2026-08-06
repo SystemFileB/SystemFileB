@@ -13,21 +13,44 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - name: 检出仓库
+        uses: actions/checkout@v7
 
-      - name: 生成 img/stats.svg
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: 检出 stats-organization/github-readme-stats-action
+        uses: actions/checkout@v7
         with:
-          card: stats
-          options: username=SystemFileB&show_icons=true&theme=dark&include_all_commits=true&locale=cn
-          path: img/stats.svg
+          repository: stats-organization/github-readme-stats-action
+          path: github-readme-stats-action
+          ref: v2
 
-      - name: 生成 img/top-langs.svg
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=SystemFileB&layout=compact&theme=dark&locale=cn&hide=markdown,xslt,html
-          path: img/top-langs.svg
+      - name: 安装依赖
+        run: |
+          cd github-readme-stats-action
+          npm install -g pnpm
+          pnpm install --frozen-lockfile --prod --ignore-scripts
+
+      - name: 生成卡片
+        run: |
+          mkdir -p img/repos
+          cd github-readme-stats-action
+
+          echo "==> 生成 img/stats.svg ..."
+          export INPUT_CARD="stats"
+          export INPUT_OPTIONS="username=SystemFileB&show_icons=true&theme=transparent&include_all_commits=true&locale=cn"
+          export INPUT_PATH="../img/stats.svg"
+          export INPUT_CORE_VERSION="v2"
+          export INPUT_FAIL_ON_ERROR="false"
+
+          node index.js
+
+          echo "==> 生成 img/top-langs.svg ..."
+          export INPUT_CARD="top-langs"
+          export INPUT_OPTIONS="username=SystemFileB&layout=compact&theme=transparent&locale=cn&hide=markdown,xslt,html"
+          export INPUT_PATH="../img/top-langs.svg"
+          export INPUT_CORE_VERSION="v2"
+          export INPUT_FAIL_ON_ERROR="false"
+
+          node index.js
 
       - name: 提交卡片
         run: |
