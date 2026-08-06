@@ -48,7 +48,7 @@ jobs:
             CamMonitor_Server
           "
 
-          for repo in "${REPOS[@]}"; do
+          for repo in $REPOS; do
             echo "==> 生成 img/repos/${repo}.svg ..."
             export INPUT_CARD="pin"
             export INPUT_OPTIONS="username=SystemFileB&repo=SystemFileB%2F${repo}&locale=cn&theme=transparent&show_icons=true&description_lines_count=3"

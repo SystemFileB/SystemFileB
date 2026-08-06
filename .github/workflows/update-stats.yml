@@ -31,7 +31,7 @@ jobs:
 
       - name: 生成卡片
         run: |
-          mkdir -p img/repos
+          mkdir -p img
           cd github-readme-stats-action
 
           echo "==> 生成 img/stats.svg ..."
