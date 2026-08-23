@@ -8,14 +8,14 @@
 ![GitHub 统计数据](./img/stats.svg)
 
 ## 常用工具
-- [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢信息事物的开发者，但这并不意味着我不接纳其它发行版！
+- [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢新鲜事物的开发者，但这并不意味着我不接纳其它发行版！
   - 在一些我不常用的平台上照样能找到 [Fedora](https://fedoraproject.org/) 和 [Debian](https://www.debian.org/) 的身影
-- [Neovim](https://neovim.io/) - ~~被它的配置折磨得不轻~~但它还是我的常用编辑器之一
+- [Neovim](https://neovim.io/) - ~~被它的配置折磨得不轻，~~但它还是我的常用编辑器之一
 - [MSYS2](https://www.msys2.org/) - 在 Windows 上可以用它代替 MSVC ，Windows 开发几乎靠它，所以我一般不会去考虑 MSVC 的情况
-- DE
-  - [KDE](https://kde.org/) - 不想折腾时首选的桌面环境
-  - [niri](https://github.com/niri-wm/niri) - ~~但KDE心始终不改~~
-- [Matrix](https://matrix.org/) - (国内打不开) 较常用的 IM 之一，我喜欢它去中心化的特性
+- DE / WM
+  - [KDE](https://kde.org/) - 不想折腾时我的首选桌面环境
+- [niri](https://github.com/niri-wm/niri) - ~~但我的 KDE 心始终不改~~
+- [Matrix](https://matrix.org/) - (官网国内打不开) 较常用的 IM 之一，我喜欢它去中心化的特性
 
 ## 常用语言
 - Python (除了慢别的都好)
@@ -28,7 +28,7 @@
 ![最常用的语言](./img/top-langs.svg)
 
 ## 项目
-目前已经构思了 NaN 个项目了，其中一些比较大的还是 WIP 或者压根不管，这里放上一些做好了的  
+目前已经构思了 NaN 个项目了，其中一些比较大的还是 WIP 或者压根不管 (比如 CamMonitor)  
 注意，这里的大部分仓库维护频率都极低，特别是一些 CI 仓库可能工作流都没开
 
 ### 工具链
@@ -62,4 +62,4 @@
 我因为没时间维护那些项目，所以才写到主页上
 
 ## 传送门
-[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK服务器](https://kook.vip/vmwMs8) | [Discord服务器](https://discord.gg/P93nwYxWmQ) | [洛谷](https://www.luogu.com.cn/user/2081639) | [osu!](https://osu.ppy.sh/users/39872263)
+[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK 服务器](https://kook.vip/vmwMs8) | [Discord 服务器](https://discord.gg/P93nwYxWmQ) | [洛谷](https://www.luogu.com.cn/user/2081639) | [osu!](https://osu.ppy.sh/users/39872263)
