@@ -1,11 +1,47 @@
 # SyFB_GitHub
 一种有一堆~~没用~~想法，但不知道实现了多少的小透明
 
-当然，我的ID可以简称为 SyFB ，或许可以读作 site ~~但是这两者真的一点关系也没有啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊~~
+当然，我的ID可以简称为 SyFB ，或许可以读作 site ~~但是这两者真的一点关系也没有啊啊啊啊啊啊啊啊啊啊~~
 
 ~~我真的太喜欢为我的项目加 SyFB_ 前缀了 lollollollol~~
 
 ![GitHub 统计数据](./img/stats.svg)
+
+## 成分表
+### 游戏
+- Minecraft ~~(我的 P2P 联机呢)~~
+- deltarune (不含 UNDERTALE) ~~(吊→塔↘润↑↑↑ (Ch5 开场))~~
+- osu! ~~(Welcome to osuuuuuuuu)~~
+- (曾经的) Phigros
+
+### 音乐
+- 主要是音游曲，当然电子的也会听点
+- MC / dr / UT 的 OST
+- 没了没了没了 (((())
+
+### 设计
+- 传统 UI 上 (Win32, QtWidgets) 我会设计得偏紧凑，防止小屏幕没法显示完整窗口
+- 现在喜欢 [Material Design](https://m3.material.io/)，当然微软 ~~(巨硬)~~ 的 [Fluent Design](https://fluent2.microsoft.design/) 也很不错
+- 除此之外，图标之类的几乎都是从 [IconPark](https://iconpark.oceanengine.com/home) 里下载
+    - 自己不会捏 (悲)
+- 以前图像资源创作较常用的是 Photoshop，不过现在 Krita 用得比较多
+    - GIMP 也用一点，不过界面与前两者区别较大所以对于我来说很难上手 (
+    - Inkscape 还不错，或许对于矢量设计有点帮助？
+
+### 开发
+- 较偏好一些去中心化的 (Matrix, Gitea 等)
+    - 开服？还不错，但是没 $ 开不了，先 Github Pages 用着吧
+- 一般开发 FOSS (Free and Open Source Software) 软件
+- 一般情况下最好不选 GPL，虽然 GNU 项目的质量很高
+
+### OI
+- 蒟蒻，没别的
+
+### AI...?
+- 能不用最好不用，搜索引擎使用得较多
+- 这群<font color="Yellow"> 商业AI </font>真是让我火大...
+    - 我是正牌的&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font color="Yellow">Starwalker</font>
+- 所以，我一般 DeepSeek 用得较多，如果要识图，或者 Ollama，就会斟酌地用一点千问
 
 ## 常用工具
 - [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢新鲜事物的开发者，但这并不意味着我不接纳其它发行版！
@@ -63,3 +99,7 @@
 
 ## 传送门
 [《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK 服务器](https://kook.vip/vmwMs8) | [Discord 服务器](https://discord.gg/P93nwYxWmQ) | [洛谷](https://www.luogu.com.cn/user/2081639) | [osu!](https://osu.ppy.sh/users/39872263)
+
+---
+END \~(￣▽￣)\~*  
+~~所以我一共写了多少个删除线~~
