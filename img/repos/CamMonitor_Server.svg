@@ -112,6 +112,19 @@
         >
           
     
+    <g data-testid="badge" class="badge" transform="translate(320, -18)">
+      <rect stroke="#417E87" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
+      <text
+        x="23" y="-5"
+        alignment-baseline="central"
+        dominant-baseline="central"
+        text-anchor="middle"
+        fill="#417E87"
+      >
+        &#24050;&#24402;&#26723;
+      </text>
+    </g>
+  
 
     <text class="description" x="25" y="-5"> 
       <tspan dy="1.2em" x="25">&#23558;&#19968;&#21488;&#30005;&#33041;&#30340;&#25668;&#20687;&#22836;&#20316;&#20026;&#19968;&#20010;&#30417;&#25511;&#24182;&#25512;&#36865;&#21040;rtmp&#26381;&#21153;&#22120;&#20013;</tspan>
