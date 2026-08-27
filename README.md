@@ -19,7 +19,7 @@
 
 ## 常用语言
 - Python (除了慢别的都好)
-- Rust (尽管它没有出现在下面的卡片里)
+- Rust (在 C++ 和 Python 之间做到了平衡，但是编译后程序体积较大)
 - Bash / Fish (Windows 的 Batch 写的较少因为 [busybox-w32](https://github.com/rmyorston/busybox-w32) 以及 [MSYS2](https://www.msys2.org/) 可以运行 Linux / *BSD 上的脚本语言)
 - C++ (不太想用它，因为需要写较多的平台特定代码，而且我不太会写 CMake / Meson ~~，更别提 Autotools 了~~)
 - Java (纯放水，Mod都是用MCr写的，很烂)
