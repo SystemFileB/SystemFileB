@@ -22,7 +22,7 @@
 ### 设计
 - 传统 UI 上 (Win32, QtWidgets) 我会设计得偏紧凑，防止小屏幕没法显示完整窗口
 - 现在喜欢 [Material Design](https://m3.material.io/)，当然微软 ~~(巨硬)~~ 的 [Fluent Design](https://fluent2.microsoft.design/) 也很不错
-- 除此之外，图标之类的几乎都是从 [IconPark](https://iconpark.oceanengine.com/home) 里下载
+- 除此之外，图标之类的元素几乎都来自 [IconPark](https://iconpark.oceanengine.com/home)
     - 自己不会捏 (悲)
 - 以前图像资源创作较常用的是 Photoshop，不过现在 Krita 用得比较多
     - GIMP 也用一点，不过界面与前两者区别较大所以对于我来说很难上手 (
@@ -42,6 +42,11 @@
 - 这群<font color="Yellow"> 商业AI </font>真是让我火大...
     - 我是正牌的&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font color="Yellow">Starwalker</font>
 - 所以，我一般 DeepSeek 用得较多，如果要识图，或者 Ollama，就会斟酌地用一点千问
+
+## 指代
+- 一般用 they / them，中文下用ta
+- he / his / 他 是现实中的，但是我不太喜欢用，也不建议其他人用，除非是在极正式的场合
+- 貌似其他代词也行？
 
 ## 常用工具
 - [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢新鲜事物的开发者，但这并不意味着我不接纳其它发行版！
