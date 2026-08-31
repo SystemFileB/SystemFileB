@@ -55,7 +55,7 @@
 ## 常用工具
 - [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢新鲜事物的开发者，但这并不意味着我不接纳其它发行版！
   - 在一些我不常用的平台上照样能找到 [Fedora](https://fedoraproject.org/) 和 [Debian](https://www.debian.org/) 的身影
-- [Neovim](https://neovim.io/) - ~~被它的配置折磨得不轻，~~但它还是我的常用编辑器之一
+- [Neovim](https://neovim.io/) - ~~被它的配置折磨得不轻~~，但它还是我的常用编辑器之一
 - [MSYS2](https://www.msys2.org/) - 在 Windows 上可以用它代替 MSVC ，Windows 开发几乎靠它，所以我一般不会去考虑 MSVC 的情况
 - DE / WM
   - [KDE](https://kde.org/) - 不想折腾时我的首选桌面环境
