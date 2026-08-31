@@ -5,6 +5,8 @@
 
 ~~我真的太喜欢为我的项目加 SyFB_ 前缀了 lollollollol~~
 
+以下的所有卡片每天 UTC 0:00 更新，所以可能会有更新不及时的情况
+
 ![GitHub 统计数据](./img/stats.svg)
 
 ## 成分表
