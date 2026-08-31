@@ -1,7 +1,7 @@
 # SyFB_GitHub
 一种有一堆~~没用~~想法，但不知道实现了多少的小透明
 
-当然，我的ID可以简称为 SyFB ，或许可以读作 site ~~但是这两者真的一点关系也没有啊啊啊啊啊啊啊啊啊啊~~
+当然，我的 ID 可以简称为 SyFB ，在一些地方我也会用简写的 ID，或许可以读作 site ~~但是这两者真的一点关系也没有啊啊啊啊啊啊啊啊啊啊~~
 
 ~~我真的太喜欢为我的项目加 SyFB_ 前缀了 lollollollol~~
 
@@ -37,16 +37,17 @@
 ### OI
 - 蒟蒻，没别的
 
-### AI...?
+### AI ...?
 - 能不用最好不用，搜索引擎使用得较多
 - 这群<font color="Yellow"> 商业AI </font>真是让我火大...
     - 我是正牌的&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font color="Yellow">Starwalker</font>
+    - [梗出处](https://zh.deltarune.wiki/w/Starwalker)
 - 所以，我一般 DeepSeek 用得较多，如果要识图，或者 Ollama，就会斟酌地用一点千问
 
 ## 指代
 - 一般用 they / them，中文下用ta
 - he / his / 他 是现实中的，但是我不太喜欢用，也不建议其他人用，除非是在极正式的场合
-- 貌似其他代词也行？
+- 貌似其他代词也行 ...?
 
 ## 常用工具
 - [Arch Linux](https://archlinux.org/) - 比较适合我这种喜欢新鲜事物的开发者，但这并不意味着我不接纳其它发行版！
