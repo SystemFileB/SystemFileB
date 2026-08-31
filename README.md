@@ -41,9 +41,10 @@
 
 ### AI ...?
 - 能不用最好不用，搜索引擎使用得较多
-- 这群<font color="Yellow"> 商业AI </font>真是让我火大...
+- 这群<font color="Yellow"> 商业AI </font>真是让我火大 ...
     - 我是正牌的&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<font color="Yellow">Starwalker</font>
     - [梗出处](https://zh.deltarune.wiki/w/Starwalker)
+    - ~~不是我颜色呢~~
 - 所以，我一般 DeepSeek 用得较多，如果要识图，或者 Ollama，就会斟酌地用一点千问
 
 ## 指代
