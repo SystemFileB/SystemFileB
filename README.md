@@ -108,4 +108,6 @@
 
 ---
 END \~(￣▽￣)\~*  
+~~有了 [这个仓库](https://github.com/aoguai/rime_kaomoji_dict) 再也不用担心 Fcitx 5 的颜文字太少啦 σ(=⌒ー⌒=)>~~
+
 ~~所以我一共写了多少个删除线~~
