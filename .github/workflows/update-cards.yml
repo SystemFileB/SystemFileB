@@ -23,7 +23,13 @@ jobs:
           path: github-readme-stats-action
           ref: v2
 
-      - name: 安装依赖
+      - name: 安装最新的 Node.js
+        uses: actions/setup-node@v7
+        with: 
+          node-version: 'latest'
+          check-latest: true
+
+      - name: 安装其它依赖
         run: |
           cd github-readme-stats-action
           npm install -g pnpm
