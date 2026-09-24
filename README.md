@@ -31,7 +31,7 @@
     - Inkscape 还不错，或许对于矢量设计有点帮助？
 
 ### 开发
-- 较偏好一些去中心化的 (Matrix, Gitea 等)
+- 较偏好一些去中心化的 (Matrix, Forgejo 等)
     - 开服？还不错，但是没 $ 开不了，先 Github Pages 用着吧
 - 一般开发 FOSS (Free and Open Source Software) 软件
 - 一般情况下最好不选 GPL，虽然 GNU 项目的质量很高
