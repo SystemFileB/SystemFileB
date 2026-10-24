@@ -1,3 +1,5 @@
+接下来新的项目仓库都会开在我的 Codeberg 上 (原来在 GitHub 上的仓库不变)，同时这个仓库也会进行对应的迁移
+
 # SyFB_GitHub
 一种有一堆~~没用~~想法，但不知道实现了多少的小透明
 
@@ -107,9 +109,16 @@
 我因为没时间维护那些项目，所以才写到主页上
 
 ## 传送门
-[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK 服务器](https://kook.vip/vmwMs8) | [Discord 服务器](https://discord.gg/P93nwYxWmQ) | [洛谷](https://www.luogu.com.cn/user/2081639) | [osu!](https://osu.ppy.sh/users/39872263)
+[《个人主页》](https://systemfileb.github.io/home) | [哔哩哔哩](https://space.bilibili.com/1376977060) | [Codeberg](https://codeberg.org/SystemFileB) | [osu!](https://osu.ppy.sh/users/39872263) | [洛谷](https://www.luogu.com.cn/user/2081639)
 
 ---
+
+(以下平台均不活跃)
+
+[Gitee](https://gitee.com/SystemFileB) | [爱发电](https://afdian.com/a/systemfileb) | [Modrinth](https://modrinth.com/user/SystemFileB) | [Crowdin](https://zh.crowdin.com/profile/SystemFileB) | [KOOK 服务器](https://kook.vip/vmwMs8) | [Discord 服务器](https://discord.gg/P93nwYxWmQ)
+
+---
+
 END \~(￣▽￣)\~*  
 ~~有了 [这个仓库](https://github.com/aoguai/rime_kaomoji_dict) 再也不用担心 Fcitx 5 的颜文字太少啦 σ(=⌒ー⌒=)>~~
 
